@@ -143,16 +143,16 @@ min-width: 473px;
    position: relative;
    height: 524px;
    font-weight: 600;
-   background: url('../img/car/Mask.png') 50%/cover no-repeat;
+   background: url('../img/supercars.png') 50%/cover no-repeat;
 }
 .rent-1:nth-child(2){
-   background-image: url('../img/car/Mask\ \(1\).png');
+   background-image: url('../img/sportcars.png');
 }
 .rent-1:nth-child(3){
-   background-image: url('../img/car/Mask\ \(3\).png');
+   background-image: url('../img/suv.png');
 }
 .rent-1:nth-child(4){
-   background-image: url('../img/car/Mask\ \(2\).png');
+   background-image: url('../img/supersuv.png');
 }
 .rent__name {
    position: absolute;
@@ -279,7 +279,7 @@ color: #f4d10a;
    left: 0;
    width: 30px;
    height: 30px;
-   background: url('../img/Group\ 2.png') no-repeat;
+   background: url('../img/icon__car.png') no-repeat;
 } 
 
 /*Location  */
@@ -351,20 +351,20 @@ color: #f4d10a;
    color:#EE8313;
 }
 .footer-social {
-   margin-top: 39px;
+   margin-top: 43px;
 }
 .footer-social__link {
    display: block;
    width: 120px;
    height: 28px;
    margin-bottom: 43px;
-   background: url('../img/inst/image\ 21.png')50%/cover no-repeat;
+   background: url('../img/image\ 21.png')50%/cover no-repeat;
 }
 .footer-social__link:nth-child(2){
-   background: url('../img/inst/image\ 22.png')50%/cover no-repeat;
+   background: url('../img/image\ 22.png')50%/cover no-repeat;
 }
 .footer-social__link:nth-child(3){
-   background: url('../img/inst/image\ 20.png')50%/cover no-repeat;
+   background: url('../img/image\ 20.png')50%/cover no-repeat;
 }
 
 .footer-copyrigth {
